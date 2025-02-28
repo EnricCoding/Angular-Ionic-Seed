@@ -82,7 +82,7 @@ src/
 1️⃣ Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/angular-ionic-seed.git
+git clone https://github.com/EnricCoding/Angular-Ionic-Seed.git
 cd angular-ionic-seed
 ```
 

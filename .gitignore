@@ -68,3 +68,12 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Git Keepers (for empty directories)
+!src/app/shared/components/
+!src/app/shared/directives/
+!src/app/shared/pipes/
+!src/app/shared/utils/
+!src/app/core/guards/
+!src/app/core/interceptors/
+!src/app/core/services/
