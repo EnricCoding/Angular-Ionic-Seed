@@ -9,10 +9,6 @@ A **highly modular and scalable** **Angular 19 + Ionic 7** seed project, designe
 ✅ **Angular 19 + Ionic 7** for web and mobile development.  
 ✅ **Modular architecture** with clear separation (`core/`, `shared/`, `modules/`, `layouts/`).  
 ✅ **Lazy Loading** for improved performance.  
-✅ **State management** with `NgRx` or `Signals` (optional).  
-✅ **JWT Authentication** ready for API integration.  
-✅ **Internationalization (`i18n`)** with `ngx-translate`.  
-✅ **Fully PWA-ready** using `@angular/pwa`.  
 ✅ **Capacitor-ready** to transform into a mobile app.  
 
 ---
